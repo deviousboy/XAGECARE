@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select Country_r85</name>
+   <tag></tag>
+   <elementGuidId>9e565285-2096-4b39-8a0b-bd41522bb738</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@id=':r31:'])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=':r85:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@id=':r31:'])[1]</value>
+      <webElementGuid>dffed3a5-8be8-4670-b826-262f2e76a27a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id=':r85:']</value>
+      <webElementGuid>c4fa7a1c-80fd-4b1f-bbc5-53b7fef6c307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[5]/div/div[2]/div/div/div[2]/div[3]/div/div/div/input</value>
+      <webElementGuid>86d1d272-b21f-4f6e-b816-ad5521d77e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>dda80c3a-7754-44a9-ae44-452a47909bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = ':r85:' and @type = 'text']</value>
+      <webElementGuid>94cf1f6c-b0fc-4d67-8386-ea0968d4ca88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

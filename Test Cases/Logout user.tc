@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the logout functionality</description>
+   <name>Logout user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b9dd0fb-34f5-494e-ae68-0021487f93df</testCaseGuid>
+</TestCaseEntity>

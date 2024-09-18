@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To create a technical lead</description>
+   <name>Verify user creation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6548f4e-d911-47d7-a173-d2e602f3f75d</testCaseGuid>
+</TestCaseEntity>

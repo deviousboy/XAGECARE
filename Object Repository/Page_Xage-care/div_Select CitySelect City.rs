@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select CitySelect City</name>
+   <tag></tag>
+   <elementGuidId>753cd8f8-2491-4ee5-b8b7-c1cdf8a425d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[5]/div/div[2]/div/div/div[7]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9793f000-f813-4495-8539-ec7d19691f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-text-box-style</value>
+      <webElementGuid>1294a066-2d5f-49dc-afaa-ba6e38ebe93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select City *Select City *</value>
+      <webElementGuid>e12b8715-507d-4f87-a0cf-9d0a1ea74dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;dashboard-container&quot;]/div[1]/div[@class=&quot;cards-container&quot;]/div[@class=&quot;basic-modal-container&quot;]/div[@class=&quot;basic-modal-outer&quot;]/div[@class=&quot;basic-modal-content&quot;]/div[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 modal-item-padding css-1osj8n2-MuiGrid-root&quot;]/div[@class=&quot;modal-text-box-style&quot;]</value>
+      <webElementGuid>0d788c4c-a60f-409f-8f1e-fb67a980bf89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[5]/div/div[2]/div/div/div[7]/div</value>
+      <webElementGuid>901e5716-2619-46a0-9159-5261fb6dd6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[2]</value>
+      <webElementGuid>5fd35342-3709-4ea4-97ad-caba615021b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>4c6d3463-3f9f-4043-acab-fcc9c8166dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select City *Select City *' or . = 'Select City *Select City *')]</value>
+      <webElementGuid>74110146-5532-4657-8449-1321945662e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

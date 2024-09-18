@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ADMINISTRATOR INVITES AN AGENCY</description>
+   <name>AGENCY ONBOARDING</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33889e14-2181-4a58-81d0-c25b23a1fbc1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8070b71-8f52-46ad-abf4-da8038a00ee2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'FIRENATION'</defaultValue>
+      <description></description>
+      <id>c8070b71-8f52-46ad-abf4-da8038a00ee2</id>
+      <masked>false</masked>
+      <name>Agency</name>
+   </variable>
+</TestCaseEntity>

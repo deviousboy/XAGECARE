@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select RoleSelect Role</name>
+   <tag></tag>
+   <elementGuidId>374138f0-3909-470e-89ed-5f9601847efc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[5]/div/div[2]/div/div/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0555e8eb-654f-4685-9a14-6a120e221150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 modal-item-padding css-1osj8n2-MuiGrid-root</value>
+      <webElementGuid>fb414832-3fbf-4db4-91d0-8b6884711229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Role *​Select Role *</value>
+      <webElementGuid>fbaac5c6-b435-45e5-abb4-cb4337e578a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;dashboard-container&quot;]/div[1]/div[@class=&quot;cards-container&quot;]/div[@class=&quot;basic-modal-container&quot;]/div[@class=&quot;basic-modal-outer&quot;]/div[@class=&quot;basic-modal-content&quot;]/div[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 modal-item-padding css-1osj8n2-MuiGrid-root&quot;]</value>
+      <webElementGuid>459609e5-fd6d-465e-b9d2-b026eeaa27ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[3]/div/div/div[5]/div/div[2]/div/div/div[6]</value>
+      <webElementGuid>7947f0b4-01fb-4481-8b59-dca959d5427a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[6]</value>
+      <webElementGuid>a2eef5dc-6145-4932-95df-0c024256224a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Role *​Select Role *' or . = 'Select Role *​Select Role *')]</value>
+      <webElementGuid>34a7393d-b104-4c94-9d2c-0b1921d54e49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
